@@ -1,6 +1,6 @@
 ## Hi, I'm John 👋
 
-Computer Science student at Iowa State University with a minor in Data Science.
+Iowa State University CS grad • Software engineer • Data analyst • Hackathon enthusiast • Robotics researcher
 
 I enjoy building:
 - Full-stack web applications
@@ -13,17 +13,17 @@ I enjoy building:
 ### ♟️ Autonomous Chess Robot
 ROS, OpenCV, PyTorch, Roboflow
 
-A robot that detects chess pieces using computer vision and physically executes moves using a robotic arm.
+As the leader of a 5-person collegiate research team, I built an autonomous robot that detects chess pieces using computer vision and physically executes moves using a robotic arm.
 
 ### 🤟 ChatASL
 Next.js, React, Supabase, Gemini API
 
-ASL learning platform built during CitrusHack with real-time sign language recognition.
+American Sign Language learning and teaching platform built with two of my collaborators. Uses the webcam and Gemini API to give real feedback on your sign language progress.
 
 ### 📚 Real-Time Group Study App
 Spring Boot, MySQL, WebSockets
 
-Collaborative study platform with live communication and persistent user data.
+Collaborative platform with live communication and persistent user data that turns the college study group experience into a game.
 
 ## Technologies
 

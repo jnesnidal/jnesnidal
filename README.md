@@ -8,6 +8,11 @@ I enjoy building:
 - Robotics and computer vision projects
 - Data analysis tools
 
+A bit about me:
+- Coding since I was 9 years old
+- I have 3 dogs
+- Working proficiency in Spanish, learning Hindi
+
 ## Featured Projects
 
 ### ♟️ Autonomous Chess Robot

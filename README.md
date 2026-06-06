@@ -1,6 +1,6 @@
 ## Hi, I'm John 👋
 
-Iowa State CS grad • Software engineer • Data analyst • Hackathon enthusiast • Robotics researcher
+Iowa State CS Grad • Software Engineer • Computer Vision Researcher • Hackathon Enthusiast • Lifelong Coder
 
 I enjoy building:
 - Full-stack web applications

@@ -13,7 +13,7 @@ I enjoy building:
 - 🚀 Started building web apps for a science education nonprofit in high school
 - 🐕 I have 3 dogs
 - 🎸 I play 7 musical instruments, produce music on the side, and own 10 guitars
-- 🌎 Working proficiency in Spanish 🇪🇸, currently learning Hindi 🇮🇳
+- 🌎 Working proficiency in Spanish, currently learning Hindi
 
 ## Featured Projects
 

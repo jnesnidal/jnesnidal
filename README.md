@@ -11,11 +11,15 @@ I enjoy building:
 ### A bit about me:
 - 👨‍💻 Coding since I was 9 years old
 - 🚀 Started building web apps for a science education nonprofit in high school
-- 🐕 I have 3 dogs
 - 🎸 I play 7 musical instruments, produce music on the side, and own 10 guitars
 - 🌎 Working proficiency in Spanish, currently learning Hindi
 
 ## Featured Projects
+
+### 📑 JobJitsu - ATS Resume Dojo
+JavaScript, OpenAI API
+
+OpenAI-powered resume tailoring and editing tool to help people optimize their resumes for ATS software.
 
 ### ♟️ Autonomous Chess Robot
 ROS, OpenCV, PyTorch, Roboflow

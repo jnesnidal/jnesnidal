@@ -16,7 +16,7 @@ I enjoy building:
 
 ## Featured Projects
 
-### 📑 JobJitsu - ATS Resume Dojo
+### 📑 JobJitsu - Resume Tailoring Dojo
 JavaScript, OpenAI API
 
 OpenAI-powered resume tailoring and editing tool to help people optimize their resumes for ATS software.
